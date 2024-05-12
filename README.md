@@ -1,24 +1,24 @@
-## 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗔𝗦𝗧𝗔 𝗠𝗗 𝟮𝟬𝟮𝟰 𝗩𝟯.𝟬.𝟬
+## THIS IS TOPU MD V.2.0
 
-##### 𝗣𝗔𝗧𝗖𝗛 𝟯.𝟬.𝟬 [What Has Changed?](https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z)
+##### 𝗣𝗔𝗧𝗖𝗛 𝟯.𝟬.𝟬 [What Has Changed?](https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r)
 
-Here's Source Code [Asta-Md-main.zip](https://github.com/Astropeda/Asta-Md/files/15284070/Asta-Md-main.zip)
+Here's Source Code [topu-md-main.zip](https://github.com/Astropeda/Asta-Md/files/15284070/Asta-Md-main.zip)
 
 #### 𝗟𝗘𝗧'𝗦 𝗦𝗘𝗧𝗨𝗣
 ------------------------------------------------
 
-𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 & 𝗦𝗧𝗔𝗥 𝗔𝗦𝗧𝗔 𝗠𝗗
+𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 & 𝗦𝗧𝗔𝗥 TOPU-MD
 
-<a href="https://github.com/Astropeda/Asta-Md/fork"><img title="ASTA-MD" src="https://img.shields.io/badge/FORK 𝗔𝗦𝗧𝗔 𝗠𝗗-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Toputech/TOPU-MD-AI//fork"><img title="TOPU-MD" src="https://img.shields.io/badge/FORK TOPU MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 
 <p>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗡𝗢𝗪!</p>
-<a href="https://asta-md-patch-pair-97563fb6905f.herokuapp.com/"><img title="SCAN QR" src="https://img.shields.io/badge/𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-h?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://topuumd-c0fba67104c6.herokuapp.com/pair"><img title="SCAN QR" src="https://img.shields.io/badge/𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-h?color=black&style=for-the-badge&logo=github"></a>
 
 --------------------------------------------------
 <p>𝗗𝗘𝗣𝗟𝗢𝗬 𝗡𝗢𝗪!</p>
-<a href="https://github.com/Astropeda/Asta-Md?tab=readme-ov-file#%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%AC%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%A6"><img title="SCAN QR" src="https://img.shields.io/badge/𝗗𝗘𝗣𝗟𝗢𝗬 𝗡𝗢𝗪!-h?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Toputech/TOPU-MD-AI/tab=readme-ov-file#%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%AC%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%A6"><img title="SCAN QR" src="https://img.shields.io/badge/𝗗𝗘𝗣𝗟𝗢𝗬 𝗡𝗢𝗪!-h?color=black&style=for-the-badge&logo=github"></a>
 
 
 -------------------------------------------------
