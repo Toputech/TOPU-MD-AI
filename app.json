@@ -1,8 +1,8 @@
 {
-  "name": "asta-botto",
-  "description": "Simple WhatsApp Botto.",
-  "logo": "https://i.imgur.com/JMsAFRD.jpeg",
-  "keywords": "Asta",
+  "name": "topu-dmh",
+  "description": "Simple WhatsApp Bot.",
+  "logo": "https://telegra.ph/file/8dace2d24b82568c29e19.jpg",
+  "keywords": "topu",
   "success_url": "/astro/",
   "app_url": "/qr/",
   "stack": "container",
@@ -10,7 +10,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "Astro",
+      "value": "topik dmh",
       "required": true
     },
 
@@ -28,12 +28,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "ᴀsᴛᴀ-ᴍᴅ"
+      "value": "𝚻𝚯𝚸𝐔-𝚳𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Lagos"
+      "value": "Africa/Dodoma"
     },
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -68,7 +68,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "unavailable"
+      "value": "composing"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -96,7 +96,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348039607375"
+      "value": "255673750170"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -123,7 +123,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Asta Md",
+      "value": "topu md",
       "required": false
     },
     "PACK_AUTHER": {
